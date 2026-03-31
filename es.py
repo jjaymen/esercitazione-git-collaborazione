@@ -2,3 +2,12 @@
 
 def saluta(nome):
     return f"Ciao, {nome}!"
+# modifica del meguz
+def somma(a, b):
+    return a + b
+
+def saluta(nome):
+    return f"Ciao, {nome}!"
+# modifica del meguz
+def somma(a, b):
+    return a + b
